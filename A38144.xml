@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations of the Lords and Commons assembled in Parliament one, July 12, for the preservation and saftey of the kingdom, and the town of Hull : the other, July 13, concerning the miserable distractions and grievances this kingdom now lieth in, by means of Jesuiticall and wicked councellors now about His Majesty : with an order of both Houses of Parliament to ... to raise forces to suppresse all disturbers of the peace ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38144</idno><idno type="EEBO-CITATION">12007419</idno>
+  <idno type="VID">52354</idno>
+  <idno type="EEBO-PROQUEST">2240904997</idno>
+  
+            <idno type="STC">Wing E2387</idno>
+            <idno type="STC">ESTC R16003</idno>
+            <idno type="OCLC">12007419</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 867:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations of the Lords and Commons assembled in Parliament one, July 12, for the preservation and saftey of the kingdom, and the town of Hull : the other, July 13, concerning the miserable distractions and grievances this kingdom now lieth in, by means of Jesuiticall and wicked councellors now about His Majesty : with an order of both Houses of Parliament to ... to raise forces to suppresse all disturbers of the peace ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands and I. Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+                  <note>Each of the declarations was also published separately.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52354:1"/>
+            <p>TWO DECLARATIONS OF THE Lords and Commons Assembled in Parliament.</p>
+            <p>
+               <hi>One, Iuly</hi> 12.</p>
+            <p>For the preservation and safety of the Kingdom, and the Town of HVLL.</p>
+            <p>
+               <hi>The other, Iuly</hi> 13.</p>
+            <p>Concerning the miserable Distractions and grievances this Kingdom now lieth in, by means of Jesuiticall and wicked Councellors now about His MAJESTY.</p>
+            <p>With an Order of both Houses of Parliament to all Lord Lieutenants, and Deputy Lieutenants of their severall Counties, to raise Forces to suppresse all disturbers of the peace.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Lords and Commons in Parliament, That these Declarations be forth printed and published.</hi>
+                        </p>
+                        <p>Hen. Elsynge, Cler. Parl D. Com.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Husbands</hi> and <hi>I. Franck▪</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:52354:2"/>
+            <head>The Declaration of the LORDS and COMMONS now assembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T cannot be unknown to the world, how powerfull and active the wicked Councellors about His Majesty have been, both before and since this Parliament, in seeking to destroy and extinguish the true Protestant Religion, the Liberty and Laws of the Kingdom; and that after many trayterous endeavours against the Parliament, by Gods providence discovered and frustrated; they drew His Maiesty into the No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thern parts, and in his Name did publish divers false scandals and ignomini<g ref="char:EOLhyphen"/>ous reproaches against the Lords and Commons, making His Majesties Court a sanctuary for all kind of Delinquents, against the justice and priviledge of Parliament, and drawing to <hi>York</hi> by Letters and other means, divers Members of both Houses, and setting up there a coun<g ref="char:EOLhyphen"/>terfeit imaginary usage of the great Councel of Peers, in opposition to the Parliament, to the great danger not onely of the distu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bance, but even of the subversion of the original constitution and frame of this Kingdom,</p>
+            <p>And that the way to the great change in Religion and government in<g ref="char:EOLhyphen"/>tended, might be made more easie and passable; many of those who have shewed themselves faithful to the cause of God and the King<g ref="char:EOLhyphen"/>dom, either in Parliament or in the Count<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey are pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on of Cōmission of peace, and other publique employments. The Sheriffe of <hi>Leicester</hi> there labouring to keep the peace, when Master <hi>Henry Hastings</hi> ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch<g ref="char:EOLhyphen"/>ed from <hi>Loughborourgh</hi> in <hi>Leicester</hi> with about 200 Foot, and 100 Horse; of which, many were drawn out of <hi>Darbishire,</hi> armed in a war<g ref="char:EOLhyphen"/>like manner, with Pistols, Pikes, and Muskets, their D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ums beating, and Colours flying, intending to seize upon the Magazine of the County, wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for his good service put out of his office; and Master <hi>Hastings,</hi> the person who committed this outrage made Sheriffe in his place. Di<g ref="char:EOLhyphen"/>vers great Lords His Majesties servants in places of neernesse and trust,
+<pb n="3" facs="tcp:52354:2"/> Persons of high Honour, merit, and abilities; as the Earls of <hi>Pembroke, Ess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x, Holland,</hi> and the Lord <hi>Feilding</hi> displaced, for no other cause but discharging heir conscience in Parliament; besides, diver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Members of the House of Commons, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of which hath long served His Maj<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty in places of Honour, and had alwaies been in great favour and esteem, till he faithfully discharged his duty in Parliament. And last of all, the Ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of <hi>Northumberland</hi> put from the place of High Admirall; a man so eminent in all qualifications of honour and sufficiency, so neces<g ref="char:EOLhyphen"/>sary for the state of this time; when so many ships are at Sea, and the Kingdom in so much trouble and distraction, that there can hardly be named a more mischievous effect of wicked Counsel or dangerous preparative to future confusions, then the bereaving the state of the service to so Noble and vertuous a person as he is. The consideration whereof inforceth both Houses to declare, That they cannot think the Kingdom in safety, nor themselves to have discharged the trust which lies upon them, till they have done their uttermost, by all fit waies to procure that office to be restored, whereby the Commander of the ship<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which are the wals of the Kingdome, may again be setled in the charge of that noble Lord.</p>
+            <p>In the midst of these unjust and destructive courses to blind the eyes of the multitude▪ and disguise their malicious and cruel intentions un<g ref="char:EOLhyphen"/>der the semblance of peace and justice, they have drawn His Majesty to make divers solemn Protestations, with feareful imprecations upon Himself, and invocations of Gods holy Name, that he intended no<g ref="char:EOLhyphen"/>thing but the peace and welfare of His people, the maintenance of religion, and the laws of the Kingdom, and for His own security only, to raise a guard for His Person. And that he did from His soule abhor the thought of making Warre against the Parliament, or to put the Kingdom into a combustion; but having under this colour kept about him, divers souldiers and Offices, and gathered some strength, the inten<g ref="char:EOLhyphen"/>tions do now appeare with a more open face, by these His Majesties ensuing actions, and proceedings.</p>
+            <p>Which the Lords and Commons have thought good to publish, that all the subjects▪ of the Kingdom may understand what dangers and miseries are comming upon them, if not timely prevented.</p>
+            <p>A Garrison of Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diers is by His Majesties order put into <hi>New<g ref="char:EOLhyphen"/>castle,</hi> under the command of the Earle of <hi>Newcastle,</hi> who should have formerly seized upon <hi>Hull,</hi> if by the wisedom of the Parliament he had not been prevented.</p>
+            <pb n="4" facs="tcp:52354:3"/>
+            <p>The papists in <hi>Cheshire</hi> have lately, in a very peremptory manner, and in His Majesties name demanded their Arms, taken from them by dire<g ref="char:EOLhyphen"/>ction of both Houses of Parliament, to be again restored to them. The Earle <hi>Rivers,</hi> lately a notorious profest papist, and stil suspected to be a papist, although he now comes to Church, as many other dangerous papists do, on purpose, as is conceived, to make themselves capable of imployment, is put into the Commission of A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray, being against Law, and the liberty of the Subject, which he hath executed with rigour, and hath committed divers persons to prison for refusing to submit thereunto, contrary to the Law, and the Petition of Right.</p>
+            <p>The mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of the river of <hi>Tine</hi> is fortified, whereby the whole trade of <hi>Newcastle</hi> for Cole or otherwise, wil be subject to be interrupted when<g ref="char:EOLhyphen"/>soever His Majesty shal please, and the City of <hi>London,</hi> and many other parts of the Kingdom exceedingly burthened and distressed.</p>
+            <p>A Ship laden with Canon for battery, and other lesser Ordnance, Powder, and Ammunition is come into the river of <hi>Humber,</hi> which also hath brought divers Commanders from forraign parts; and in this ship, as we are credibly enformed, were M. <hi>Henry Wilmot,</hi> Sir <hi>John Barkley,</hi> and Sir <hi>Hugh Pollard,</hi> three of those who stand charged in Parliament, for being privy to the designe of bringing up the Army; and amongst others the L. <hi>Digby,</hi> a person accused in Parliament for high Treason, who when he began to be questioned, fled ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Kingdom, and advised His Majesty by Letters to that course which he hath since pur<g ref="char:EOLhyphen"/>sued, of withdrawing Himselfe from His Parliament to a place of strength, and that then he intended to come to him, and in the mean time would do Him service abroad.</p>
+            <p>Divers other large preparations of warlike provisions are made be<g ref="char:EOLhyphen"/>yond the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, and shortly expected, besides great number of Gentlemen, Horses and Arms drawn from all parts of the Kingdom, &amp; all the Gen<g ref="char:EOLhyphen"/>tlemen in <hi>York-shire</hi> req<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ired to bring in their horses for His Majesties service.</p>
+            <p>Sundry Commissions are g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted for raising horse, and divers Offi<g ref="char:EOLhyphen"/>cers of the Army are already appointed.</p>
+            <p>Upon M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nday morning being the fourth of <hi>Iuly,</hi> His Majesty came to <hi>Beverley</hi> with an Army of a considerable number of Horse and Foot, some Regiments of the Trained▪ bands being likewise commanded to be raised.</p>
+            <p>Among the souldiers in this Army, there are divers papists and other persons of desperate fortune, and condition, ready to execute any vio<g ref="char:EOLhyphen"/>lence, rapine, and oppression.</p>
+            <pb n="5" facs="tcp:52354:3"/>
+            <p>Some Troops of Horse are sent into <hi>Lincolnshire▪</hi> to the great terror of the wel affected people, who are thereby forced either to forsake their dwellings, or to keep them with armed men.</p>
+            <p>They begin already to take away mens horses by force and to com<g ref="char:EOLhyphen"/>mit other acts of hostility, and have uncivilly used a Gentleman sent from the Parliament with a Letter to His Majesty.</p>
+            <p>Provisions are restrained from comming to <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> and His Majesty is sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly expected to come thither with his Army, notwi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>standing the place is in the custody of the Parliament, as hath been often declared to His M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty by both Houses, and kept by them for His Majesties service, and the peace of the Kingdom; whereof, ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on as they may be secured, they intend to leave the town in the state it was.</p>
+            <p>The Warre being thus by His Majesty begun, the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament hold themselves bound in conscience to raise For<g ref="char:EOLhyphen"/>ces for the preservation of the peace of the Kingdom and protection of the Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts in their persons and estates, according to Law, the defence and security of Parliament, and of all those who have been imployed by them in any publique service for these ends, and thorow Gods blessing to disappoint the designs and expectation of those who have drawn His Majesty to these courses and counsels, in favour of the Pa<g ref="char:EOLhyphen"/>pists at home, the Rebels in <hi>Ireland,</hi> the forraign enemies of our Reli<g ref="char:EOLhyphen"/>on and peace,</p>
+            <p>In the opposing of all which, they desire the concurrence of the wel-disposed subjects of this Kingdom, and shal manifest by their courses and endeavours, that they are carried by no respects but of the publique good which they wil alwaies prefer before their own lives and fortunes; And shal ever be most earnest in their counsels and en<g ref="char:EOLhyphen"/>deavours to prevent a civil Warre, and those miserable effects it must needs produce, if they may be avoyded without endangering the alte<g ref="char:EOLhyphen"/>ration of religion, which is the main end of those who have been the Authors and Councellors of His Majesties undertaking this Warre▪ and will necessarily draw with it a losse of liberty, and subversion of the Law of the Kingdom; so that it rests onely that the free-born English Nation do consider whether they wil adhere to the King and His Parlament, by which they have so long enjoyed all that is deere unto them; or to the King, seduced by Jesuiticall Counsell and Cava<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iers who have designed all to slavery and confusion, which by Gods blessing and our joynt endeavours may be timely prevented.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:52354:4"/>
+            <head>A Declaration of the Lords and Commons assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S in all our endeavours since this Parliament began, we intended wholly the advancement of His Maje<g ref="char:EOLhyphen"/>sties honour and fafety, and the regainment of the ancient (though of late yeares much inv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded) Rights, Lawes, and Liberties, being the birthright of the Subjects of this Land, and setling of the true Protestant Religion (the glory of our Nation) in peace and pu<g ref="char:EOLhyphen"/>rity; so did we no lesse hope for, and expect his Majesties concur<g ref="char:EOLhyphen"/>rence in those particulars, they being the very Foundation of His Majesties present honour and greatnesse, and the Fountaine of per<g ref="char:EOLhyphen"/>fect and future blisse to himselfe, and all His loyall Subjects, which too evidently we see our selves (by the wicked Councellors now unmasked about his Majesty) not onely deprived of, but insted thereof open War declared, and prosecuted against his Majesties Loyall Subjects of <hi>Hull,</hi> and elsewhere in this Kingdome, fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unsu<g ref="char:EOLhyphen"/>table to such Declarations of love and peace as His Majesty hath frequently promised and published to the Kingdome; and in parti<g ref="char:EOLhyphen"/>cular to the County of <hi>Yorke,</hi> with sollemne protestations that He would not, nor had it entred His thoughts to make War against His Parliament, which how agreeable they are to the present courses of his Majesty and Councellors, specially since from his agents abroad He received provisions fit for War, which immediately have beene put on for execution, we referre to the whole world to judge of.</p>
+            <p>But however those promises and protestations have beene no sooner made, but broken, and our hope of peace and safety thereby wholly disappointed. Yet that it may appeare to all Ages to come, that as in duty we are bound (the Kingdome having intrusted us) so we have not, nor will be found wanting in the least degree of our care and providence (God assisting us) for the preservation of the whole Kingdome, and the Towne of <hi>Hull,</hi> and the Inhabitants thereof from violence, and ruine, though for the effecting thereof His Majesty hath proceeded to many hostile preparations and acts, by having got divers Peeces of great Ordinance, and other walike pro<g ref="char:EOLhyphen"/>visions
+<pb n="7" facs="tcp:52354:4"/> both of horse and foot, for the taking in of the said Towne and His other designes, and by cutting off their fresh water, inter<g ref="char:EOLhyphen"/>cepting and restraining of victualls and other necessaries for their subsistance and livelihood, as if to obey the Parliaments Commande (that being Sir <hi>Iohn Hothams</hi> Crime) though never so much for the safety of the whole Kingdome, were so capitall an offence, as nothing but dea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, ruine, and destruction could expiate.</p>
+            <p>Wherefore we the Lords and Commons in Parliament assembled have though fit, and do hereby declare, That whereas Sir <hi>Iohn Hotham</hi> Governor of <hi>Hull,</hi> by the specall order of the Parliament appointed for that service, hath beene forced for the prevention of the sudden surprisall, and destruction of the Towne, and the Inha<g ref="char:EOLhyphen"/>bitants thereof, to let in some Tydes from <hi>Humber</hi> upon the grounds adjoyning to the said Towne, which for present could not other<g ref="char:EOLhyphen"/>wise have beene secured; We doe therefore hereby promise and as<g ref="char:EOLhyphen"/>sure all and every such person and persons whatsoever, either the owners, or Farmers of any the said grounds which shall be impair<g ref="char:EOLhyphen"/>ed by this overflowing of the water, full and ample satisfaction for all such losse as they or any of them shall thereby sustaine (except such persons onely) as formerly have beene, now are, or hereafter shall be found the stirrers up, Abbettors, or furtherers of any such way, or meanes as have, or may conduce to the endangering, or annoy<g ref="char:EOLhyphen"/>ance of the said Towne of <hi>Hull,</hi> or the Governour thereof in his service and duty therein, or shall any way disturbe the peace and safety of the said Towne, or any the Inhabitants thereof, who stand well affected thereto. And we do also declare, That we the Lords and Commons in Parliament ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, will not only protect▪ secure, and save harmelesse all, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d every such person, and persons whatsoever, as have or shall either by Sea, or Land provide, furnish, or deliver any provision of victuall, beere, or other thing whatsoever for the reliefe and safety of the Garrison of <hi>Hull,</hi> but shall also make good pay<g ref="char:EOLhyphen"/>ment for the same, and thankfully accept thereof, as good se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vice done to the Kingdome, any pretended warrant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssued, or hereafter to be issued out under the colour of any name or authority whatsoever to the contrary notwithstanding: And for as much as we are inform<g ref="char:EOLhyphen"/>ed that some of the Inhabitants of <hi>Hull</hi> stand firmly resolved in their good affections to the service, and safe keeping of the said Town, for the good of the King and Kingdome, Wee thought fit also to declare, That all such of the Inhabitants thereof as shall continue
+<pb n="8" facs="tcp:52354:5"/> well affected to the said service, and stand close in their fidelity and assistance to the Governour thereof; we do hereby assure and promise them, that they shall receive from us protection and encouragement answerable to such a service, as will be very acceptable unto us, in respect of the importance of it for the preservation of Religion and safety of this Kingdome. And Lastly, we do declare our acknowledge<g ref="char:EOLhyphen"/>ment, acceptance, and approbation of that prudent valour, vigillancy and faithfullnesse of the Governour, officers and Souldiers imployed in the said Towne, both for the discovery of plots formerly contrived for the betraying of the said Towne, and their undanted resolutions to keepe the same against whomsoever for the service of His Majesty and Kingdome; And do promise and assure them, that every particu<g ref="char:EOLhyphen"/>lar good service done or to be done by any Commanders or Souldiers serving▪ or to serve therein, shall be rewarded as shall answer the great<g ref="char:EOLhyphen"/>nesse of this Kingdom, and the quality of the service,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_resolution">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 4. Julii. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day Resolved upon the Question by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled, That in case any force be brought out of one County into any other County of this Kingdome, to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sturbe the peace thereof; That the Lord Lieutenants and Depu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y Lievtenants of the Counties adjoyning upon notice given unto them of such disturbance, by the Lord Lieutenants or Deputy Lieutenants where such disturbance is made, be hereby required to give aid and assistance to the said other Lord Lieutenants and Deputy Lieutenants or any of them, so requiring the same, for the present suppressing of such force and distu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bers of the pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ce, by Volunteirs, and such of the Trained Bands of their severall Counties that shall voluntarily go to give their assistance</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52354:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
